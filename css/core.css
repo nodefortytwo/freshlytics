@@ -1,0 +1,64 @@
+html, body{
+    background-color:#fff;
+    margin-top:10px;
+    color:#333
+}
+
+a, a:visited, a:active{
+    color:black;
+    text-decoration:none;
+}
+
+h1,h2,h3{
+    font-family:'Play', sans-serif;
+    color:#333;
+}
+
+#fourohfour{
+    text-align:center;
+}
+
+#footer{
+    border-top:1px solid #191919;
+    padding-top:10px;
+    color:#191919;
+    text-align: center;
+}
+
+#jquery_dialog{
+}
+
+input.error{
+    border:1px solid red;
+}
+
+table th{background: #cc0000 url(images/ui-bg_highlight-soft_15_cc0000_1x100.png) 50% 50% repeat-x; color: #ffffff; font-weight: bold; min-height:15px; border: 1px solid #EEE; padding:2px}
+table th a { color: #ffffff; }
+table{border: 1px solid #EEE;}
+table td{border: 1px solid #EEE; padding:2px}
+table tr.odd td{background-color:#fafafa}
+table tr:hover td{background-color:#f1f1f1}
+
+.form-item{
+    clear:both;
+    border-bottom:1px solid #EEE;
+    padding:5px 0;
+    margin:2px 0;
+    
+}
+
+.form-item label{
+    width:200px;
+    font-weight:bold;
+    display:block;
+}
+
+.chosen{
+    width:300px;
+}
+
+.select_add{
+    float: right;
+    margin-right: 134px;
+    padding-top: 6px;
+}
